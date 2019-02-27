@@ -1,6 +1,6 @@
 # MyFirstProject
 
-![MyPicture](https://picsum.photos/g/500/300)
+![MyPicture](http://picsum.photos/g/500/300)
 
 AAA  
 BB
